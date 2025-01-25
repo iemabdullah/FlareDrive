@@ -52,7 +52,7 @@ You must upload large files through the web interface which supports chunked upl
 ## Acknowledgments
 
 WebDAV related code is based on [r2-webdav](
-(https://abdullahcoded.blogspot.com/)
+https://abdullahcoded.blogspot.com
 ) project by [abersheeran](
   https://github.com/iemabdullah
 ).
